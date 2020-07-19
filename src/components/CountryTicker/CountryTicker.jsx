@@ -1,11 +1,11 @@
 import React from 'react';
 import { findAllByAltText } from '@testing-library/react';
 
-const Cards = () => {
+const CountryTicker = () => {
     return (
         <h1> CountryTicker </h1>
 
     )
 }
 
-export default Cards;
+export default CountryTicker;
