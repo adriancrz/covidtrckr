@@ -3,7 +3,7 @@ import { Line, Bar } from 'react-chartjs-2';
 
 import { fetchDailyData } from '../../api';
 
-import styles from '/Users/adriancrz/Documents/github/covidtrckr/src/components/Chart/Charts.modules.css';
+import styles from '/Users/adriancrz/Documents/github/covidtrckr/src/components/Chart/Charts.module.css';
 
 const Chart = ({ data: { confirmed, recovered, deaths }, country }) => {
   const [dailyData, setDailyData] = useState({});
