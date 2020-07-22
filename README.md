@@ -14,7 +14,7 @@ SARS-COVID19 Tracker. This is an online tracker that pulls data from 'https://co
 - Adrián Cruz, project manager, lead designed, lead developer
 
 # Live Demo
-COMING SOON
+https://adriancrz.github.io/covidtrckr/
 
 # Instructions
 - clone repository
