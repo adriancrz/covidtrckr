@@ -1,7 +1,7 @@
 # Description
 SARS-COVID19 Tracker. This is an online tracker that pulls data from 'https://covid19.mathdro.id/api'. It allows users to keep up to date with the most recent number of active/confirmed cases, recoveries, and deaths per country.
 
-<img src= "screenshot.png">
+<img src= "https://github.com/adriancrz/covidtrckr/blob/master/src/images/screenshot.png">
 
 # Technologies Used
 - CSS
