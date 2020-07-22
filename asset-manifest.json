@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/covidtrckr/static/css/main.deaaa14c.chunk.css",
+    "main.js": "/covidtrckr/static/js/main.69813d3c.chunk.js",
+    "main.js.map": "/covidtrckr/static/js/main.69813d3c.chunk.js.map",
+    "runtime-main.js": "/covidtrckr/static/js/runtime-main.ca1e63ed.js",
+    "runtime-main.js.map": "/covidtrckr/static/js/runtime-main.ca1e63ed.js.map",
+    "static/js/2.28291fab.chunk.js": "/covidtrckr/static/js/2.28291fab.chunk.js",
+    "static/js/2.28291fab.chunk.js.map": "/covidtrckr/static/js/2.28291fab.chunk.js.map",
+    "index.html": "/covidtrckr/index.html",
+    "precache-manifest.621f7809fc0fa289a6d36041ec4814f5.js": "/covidtrckr/precache-manifest.621f7809fc0fa289a6d36041ec4814f5.js",
+    "service-worker.js": "/covidtrckr/service-worker.js",
+    "static/css/main.deaaa14c.chunk.css.map": "/covidtrckr/static/css/main.deaaa14c.chunk.css.map",
+    "static/js/2.28291fab.chunk.js.LICENSE.txt": "/covidtrckr/static/js/2.28291fab.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/covidtrckr/static/media/image.94863534.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca1e63ed.js",
+    "static/js/2.28291fab.chunk.js",
+    "static/css/main.deaaa14c.chunk.css",
+    "static/js/main.69813d3c.chunk.js"
+  ]
+}
